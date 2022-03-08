@@ -1,0 +1,46 @@
+
+
+.showing{
+
+  width:700px;
+  display:grid;
+
+grid-template-columns: auto auto auto;
+gap:50px;
+margin:auto;
+}
+
+
+.show{
+  height:150px;
+  width:200px;
+
+}
+
+  .show img{
+    width:30px;
+    height:60px;
+   
+    margin:auto;
+  }
+
+
+  .name{
+    height:10%;
+    
+    font-size:13px;
+    margin-bottom:2%;
+    overflow:hidden
+    
+  }
+  #btn1{
+    margin-left:45%;
+    margin-top:10px;
+  }
+
+  a{
+    margin:auto;
+  }
+h1{
+  margin-left:45%;
+}
