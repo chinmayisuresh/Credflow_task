@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Credflow_task/tree/main/credflow/static/css/main.c12f7822.css",
+    "main.js": "/Credflow_task/tree/main/credflow/static/js/main.ecb28cfb.js",
+    "static/js/787.70f55fc6.chunk.js": "/Credflow_task/tree/main/credflow/static/js/787.70f55fc6.chunk.js",
+    "static/media/logo.svg": "/Credflow_task/tree/main/credflow/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Credflow_task/tree/main/credflow/index.html",
+    "main.c12f7822.css.map": "/Credflow_task/tree/main/credflow/static/css/main.c12f7822.css.map",
+    "main.ecb28cfb.js.map": "/Credflow_task/tree/main/credflow/static/js/main.ecb28cfb.js.map",
+    "787.70f55fc6.chunk.js.map": "/Credflow_task/tree/main/credflow/static/js/787.70f55fc6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c12f7822.css",
+    "static/js/main.ecb28cfb.js"
+  ]
+}
